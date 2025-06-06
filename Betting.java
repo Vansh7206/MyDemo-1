@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.util.Random;
 import java.util.Scanner;
 public class Betting{
@@ -22,4 +22,4 @@ public class Betting{
             System.out.println("Sorry you lost");
         }
     }
-=======
+}
