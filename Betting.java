@@ -13,7 +13,7 @@ public class Betting{
         System.out.println("The Number is:"+a);
 
         System.out.println("The number chosen by System is:");
-        int b=number.nextInt(1,5);
+        int b=number.nextInt(1,50);
 
         System.out.println(b);
         if(a==b){
