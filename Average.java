@@ -15,6 +15,7 @@ public class Average{
 
         int average= total/5;
         System.out.println("Average is: "+average);
+        
     }
 
 }
